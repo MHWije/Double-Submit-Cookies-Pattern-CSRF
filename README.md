@@ -1,6 +1,15 @@
-# Double-submit-cookies-patterns-to-defense-against-Cross-Site-Request-Forgery-CSRF-
+# Double-Submit-Cookies-Patterns-to-defense-against-Cross-Site-Request-Forgery-CSRF-
 A web application develop to demonstrate how to use double submit cookies patterns to prevent Cross-Site Request Forgery (CSRF).
 
-Requirements: You need to have local web server to launch this project.
-Find more details about this project in below blog post.
-Link --> https://digitalfortresslk.wordpress.com/2018/05/21/double-submit-cookies-patterns-to-defense-against-cross-site-request-forgery-csrf/
+Requirements: you need to have local web server to deploy project.
+
+Steps :-
+
+Download wamp server and start up and running.
+Download this project files and paste in the server.
+Try accessing the login.html page by 'localhost/login.html' in your browser.
+Use 'mh' as username and 'mh123' as password.
+You are in.....
+
+
+Below link(Blog) provide breif description about the project Link -> https://csrfgmhwijeratne.blogspot.com/2018/10/synchronizer-token-pattern-to-prevent.html
