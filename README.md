@@ -12,4 +12,4 @@ Use 'mh' as username and 'mh123' as password.
 You are in.....
 
 
-Below link(Blog) provide breif description about the project Link -> https://csrfgmhwijeratne.blogspot.com/2018/10/synchronizer-token-pattern-to-prevent.html
+Below link(Blog) provide breif description about the project Link -> https://csrfgmhwijeratne.blogspot.com/2018/10/double-submit-cookies-patterns-to.html
